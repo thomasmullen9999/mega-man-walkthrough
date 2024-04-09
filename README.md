@@ -4,7 +4,7 @@ By Thomas Mullen
 
 ## Intro
 
-This website was created using only vanilla HTML5 and CSS to demonstrate understanding of accessibility and styling, as well as to consolidate my knowledge of front-end design. The site is a walkthrough for the original Mega Man game for the Nintendo Entertainment System. I do not own any of the images or content referenced on this site and everything displayed here is for informative and demonstrative purposes only.
+This website was created using only vanilla HTML5 and CSS to demonstrate my understanding of accessibility and styling, as well as to consolidate my knowledge of front-end design. The site is a walkthrough for the original Mega Man game for the Nintendo Entertainment System. I do not own any of the images or content referenced on this site and everything displayed here is for informative and demonstrative purposes only.
 
 Also featured on the site is an 'Enemy Guide' which has information on all of the various enemies that the player can encounter in the game.
 
@@ -39,42 +39,42 @@ All of the images in the ‘bosses’ and ‘enemies’ folders are from https:/
 
 ### 'bosses' folder
 
-Bombman.png https://megaman.fandom.com/wiki/Bomb_Man
-Copyrobot.png https://megaman.fandom.com/wiki/Copy_Robot
-Cutman.png https://megaman.fandom.com/wiki/Cut_Man
-Cwu01p.png https://megaman.fandom.com/wiki/CWU-01P
-Elecman.png https://megaman.fandom.com/wiki/Elec_Man
-Fireman.png https://megaman.fandom.com/wiki/Fire_Man
-Gutsman.png https://megaman.fandom.com/wiki/Guts_Man
-Iceman.png https://megaman.fandom.com/wiki/Ice_Man
-Wilymachine.png https://megaman.fandom.com/wiki/Wily_Machine_1
-Yellowdevil.png https://megaman.fandom.com/wiki/Yellow_Devil
+Bombman.png https://megaman.fandom.com/wiki/Bomb_Man<br>
+Copyrobot.png https://megaman.fandom.com/wiki/Copy_Robot<br>
+Cutman.png https://megaman.fandom.com/wiki/Cut_Man<br>
+Cwu01p.png https://megaman.fandom.com/wiki/CWU-01P<br>
+Elecman.png https://megaman.fandom.com/wiki/Elec_Man<br>
+Fireman.png https://megaman.fandom.com/wiki/Fire_Man<br>
+Gutsman.png https://megaman.fandom.com/wiki/Guts_Man<br>
+Iceman.png https://megaman.fandom.com/wiki/Ice_Man<br>
+Wilymachine.png https://megaman.fandom.com/wiki/Wily_Machine_1<br>
+Yellowdevil.png https://megaman.fandom.com/wiki/Yellow_Devil<br>
 
 ### 'images' folder
 
-Adheringsuzy.png https://megaman.fandom.com/wiki/Adhering_Suzy
-Bigeye.png https://megaman.fandom.com/wiki/Big_Eye
-blaster.png https://megaman.fandom.com/wiki/Blaster
-bombombomb.png https://megaman.fandom.com/wiki/Bombombomb
-bunbyheli.png https://megaman.fandom.com/wiki/Bunby_Heli
-changkey.png https://megaman.fandom.com/wiki/Changkey
-crazyrazy.png https://megaman.fandom.com/wiki/Crazy_Razy
-footholder.png https://megaman.fandom.com/wiki/Foot_Holder
-gabyoall.png https://megaman.fandom.com/wiki/Gabyoall
-kamadoma.png https://megaman.fandom.com/wiki/Kamadoma
-killerbomb.png https://megaman.fandom.com/wiki/Killer_Bomb
-mambu.png https://megaman.fandom.com/wiki/Mambu
-metall.png https://megaman.fandom.com/wiki/Met_(Classic_series)
-pepe.png https://megaman.fandom.com/wiki/Pepe
-pickelman.png https://megaman.fandom.com/wiki/Pickelman
-screwdriver.png https://megaman.fandom.com/wiki/Screw_Driver
-sniperjoe.png https://megaman.fandom.com/wiki/Sniper_Joe
-supercutter.png https://megaman.fandom.com/wiki/Super_Cutter
-watcher.png https://megaman.fandom.com/wiki/Watcher
+Adheringsuzy.png https://megaman.fandom.com/wiki/Adhering_Suzy<br>
+Bigeye.png https://megaman.fandom.com/wiki/Big_Eye<br>
+blaster.png https://megaman.fandom.com/wiki/Blaster<br>
+bombombomb.png https://megaman.fandom.com/wiki/Bombombomb<br>
+bunbyheli.png https://megaman.fandom.com/wiki/Bunby_Heli<br>
+changkey.png https://megaman.fandom.com/wiki/Changkey<br>
+crazyrazy.png https://megaman.fandom.com/wiki/Crazy_Razy<br>
+footholder.png https://megaman.fandom.com/wiki/Foot_Holder<br>
+gabyoall.png https://megaman.fandom.com/wiki/Gabyoall<br>
+kamadoma.png https://megaman.fandom.com/wiki/Kamadoma<br>
+killerbomb.png https://megaman.fandom.com/wiki/Killer_Bomb<br>
+mambu.png https://megaman.fandom.com/wiki/Mambu<br>
+metall.png https://megaman.fandom.com/wiki/Met_(Classic_series)<br>
+pepe.png https://megaman.fandom.com/wiki/Pepe<br>
+pickelman.png https://megaman.fandom.com/wiki/Pickelman<br>
+screwdriver.png https://megaman.fandom.com/wiki/Screw_Driver<br>
+sniperjoe.png https://megaman.fandom.com/wiki/Sniper_Joe<br>
+supercutter.png https://megaman.fandom.com/wiki/Super_Cutter<br>
+watcher.png https://megaman.fandom.com/wiki/Watcher<br>
 
 ### 'other' folder
 
-Rockman.jpg https://en.wikipedia.org/wiki/Mega_Man_(video_game)
-Shrapnelavoid.jpeg - This is a screenshot taken from my Nintendo Switch.
-Suzyjump.jpeg - This is a screenshot taken from my Nintendo Switch.
-Titlescreen.jpg – This is a screenshot taken from my Nintendo Switch.
+Rockman.jpg https://en.wikipedia.org/wiki/Mega_Man_(video_game)<br>
+Shrapnelavoid.jpeg - This is a screenshot taken from my Nintendo Switch.<br>
+Suzyjump.jpeg - This is a screenshot taken from my Nintendo Switch.<br>
+Titlescreen.jpg – This is a screenshot taken from my Nintendo Switch.<br>
