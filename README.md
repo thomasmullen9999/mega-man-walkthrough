@@ -28,7 +28,7 @@ Below is a list of decisions that were made regarding the design of the site, wh
 
 * At the bottom of each page in the walkthrough, in the footer, I included links to the previous and next parts. This makes it easy to continue to the next section without having to scroll back up to the table of contents.
 
-* I enclosed important parts of the text in <strong> and <em> tags when appropriate, to indicate to screen readers when a part of the text should be emphasised. I used normal bold tags for when emphasis is not necessary. 
+* I enclosed important parts of the text in <strong>strong</strong> and <em>em</em> tags when appropriate, to indicate to screen readers when a part of the text should be emphasised. I used normal bold tags for when emphasis is not necessary. 
 
 * I applied various attributes in Media Queries to ensure that the website would function well on different devices and different window sizes.
 
