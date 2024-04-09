@@ -10,7 +10,7 @@ Also featured on the site is an 'Enemy Guide' which has information on all of th
 
 ## Accessibility and Usability
 
-Below is a list of decisions that were made regarding the design of the site, when considering accessiblity practices.
+Below is a list of decisions that were made regarding the design of the site, when considering accessibility practices.
 
 *	For the main paragraph content, I used a font-size that is large enough to read for people with poor eyesight, but not too large as to look unprofessional or make the page extremely long.
 
@@ -22,7 +22,7 @@ Below is a list of decisions that were made regarding the design of the site, wh
 
 * On the Enemy Guide page, I included an example template near the top of the page that explains what each attribute in the individual enemy files refers to. This is simpler than explaining what each attribute means in every single enemy file. 
 
-*	In the ‘Controls’ section of the Getting Started part of the walkthrough, I included a table which shows the game’s controls for many different consoles. This table format makes it easy for the user to quickly find which button they should press for a certain action, depending which console they’re playing the game on.
+*	In the ‘Controls’ section of the Getting Started part of the walkthrough, I included a table which shows the game’s controls for many different consoles. This table format makes it easy for the user to quickly find which button they should press for a certain action, depending on which console they’re playing the game on.
 
 *	I included in-game screenshots at points where it may be hard to understand exactly what I’m explaining through text alone, such as ‘suzyjump.jpeg’ in Cut Man’s Stage, and ‘shrapnelavoid.jpeg’ in Bomb Man’s Stage.
 
@@ -34,7 +34,7 @@ Below is a list of decisions that were made regarding the design of the site, wh
 
 ## Image Sources
 
-Below is a list of websites from which all of the images I used in my website originate from.
+Below is a series of links to where each of the images I used in my website originate from.
 All of the images in the ‘bosses’ and ‘enemies’ folders are from https://megaman.fandom.com/wiki/Mega_Man_Wiki.
 
 ### 'bosses' folder
