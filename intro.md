@@ -8,6 +8,8 @@ This website was created using only vanilla HTML5 and CSS to demonstrate my unde
 
 Also featured on the site is an 'Enemy Guide' which has information on all of the various enemies that the player can encounter in the game.
 
+To access the opening page of the website: https://thomasmullen9999.github.io/mega-man-walkthrough/introduction.html
+
 ## Accessibility and Usability
 
 Below is a list of decisions that were made regarding the design of the site, when considering accessibility practices.
