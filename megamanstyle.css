@@ -9,13 +9,14 @@ h2 {
 body {
 	color: black;
 	background-color: #27BEFE;
+	font-family: Helvetica, Arial, sans-serif;
 }
 
 #container {
 	background-color: lightblue;
 	padding-left: 15px;
 	padding-right: 15px;
-	margin: 40px;
+	margin: 50px;
 	border-style: double;
 	border-width: 7px;
 	border-color: blue;
@@ -37,10 +38,22 @@ nav li {
 	border-radius: 6px;
 	padding: 10px 10px;
 	margin-left: 5px;
+	font-weight: bold;
+}
+
+ol {
+	font-weight: bold;
 }
 
 footer {
 	text-align: center;
+	font-style: italic;
+}
+
+footer a {
+	font-weight: bold;
+	font-style: normal;
+	text-decoration: none;
 }
 	
 table, th, td {
@@ -67,9 +80,9 @@ a {
 	color: blue;
 }
 
-a:visited {
+/* a:visited {
 	color: purple;
-}
+} */
 
 a:hover {
 	color: white;
