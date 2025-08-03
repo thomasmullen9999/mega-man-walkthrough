@@ -1,149 +1,219 @@
+/* Typography */
+body {
+  color: #333;
+  background-color: #5ccae8;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
+    Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+}
+
+/* Headings */
 h1 {
-	text-align: center;
+  text-align: center;
+  font-size: 2.5em;
+  margin: 1em 0 0.5em;
 }
 
 h2 {
-	margin-top: 13px;
+  margin-top: 1.5em;
+  font-size: 1.75em;
 }
 
-body {
-	color: black;
-	background-color: #27BEFE;
-	font-family: Helvetica, Arial, sans-serif;
-}
-
+/* Container */
 #container {
-	background-color: lightblue;
-	padding-left: 15px;
-	padding-right: 15px;
-	margin: 50px;
-	border-style: double;
-	border-width: 7px;
-	border-color: blue;
-	overflow: hidden;
-	border-radius: 15px;
-	font-size: 20px;
+  background-color: #ffffff;
+  padding: 2em;
+  margin: 2em auto;
+  width: 85%;
+  max-width: 900px;
+  border-radius: 16px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  font-size: 1.1em;
 }
 
+/* Optional: Remove max-width limit for large screens */
+@media (min-width: 1000px) {
+  #container {
+    max-width: 100%;
+  }
+}
+
+/* Navigation */
 nav {
-	text-align: center;
+  text-align: center;
+  margin-bottom: 2em;
+}
+
+nav ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1em;
 }
 
 nav li {
-	display: inline-block;
-	text-align: center;
-	background: turquoise;
-	border: solid;
-	border-width: 2px;
-	border-radius: 6px;
-	padding: 10px 10px;
-	margin-left: 5px;
-	font-weight: bold;
+  margin: 0;
+}
+
+nav a {
+  display: inline-block;
+  width: 160px; /* Fixed width for consistent buttons */
+  text-align: center;
+  background: linear-gradient(135deg, #38bdf8, #0ea5e9);
+  color: white;
+  font-weight: 600;
+  border-radius: 10px;
+  padding: 0.6em 0;
+  text-decoration: none;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+nav a:hover {
+  background: linear-gradient(135deg, #0ea5e9, #0284c7);
+  transform: translateY(-1.5px);
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.15);
+}
+
+/* Lists */
+ul,
+ol {
+  margin: 1em 0;
+  padding-left: 1.2em;
 }
 
 ol {
-	font-weight: bold;
-}
-
-footer {
-	text-align: center;
-	font-style: italic;
-}
-
-footer a {
-	font-weight: bold;
-	font-style: normal;
-	text-decoration: none;
-}
-	
-table, th, td {
-	border: 1px solid black;
+  list-style-type: upper-alpha;
+  font-weight: bold;
 }
 
 ul {
-	list-style-type: none;
-	margin: 0;
-	padding: 0;
+  list-style-type: disc;
 }
 
-ol {
-	list-style-type: upper-alpha;
+/* Tables */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1em 0;
 }
 
-li a {
-	text-align: center;
-	text-decoration: none;
-	padding: 3px;
+table,
+th,
+td {
+  border: 1px solid #ccc;
 }
 
+th,
+td {
+  padding: 0.75em;
+  text-align: left;
+}
+
+/* Links */
 a {
-	color: blue;
+  color: #0066cc;
+  text-decoration: none;
+  transition: color 0.2s ease;
 }
-
-/* a:visited {
-	color: purple;
-} */
 
 a:hover {
-	color: white;
+  color: #003366;
 }
 
+/* Footer */
+footer {
+  text-align: center;
+  font-style: italic;
+  margin-top: 3em;
+}
+
+footer a {
+  font-weight: bold;
+  font-style: normal;
+}
+
+/* Sections */
 .weapons {
-	background-color: pink;
-	border-style: solid;
-	border-width: 3px;
-	padding-left: 14px;
-	padding-right: 14px;
-	border-color: red;
-	overflow: hidden;
-	border-radius: 10px;
+  background-color: #fdf3f5;
+  border-left: 5px solid #e94e77;
+  padding: 1em;
+  border-radius: 10px;
+  margin: 1em 0;
 }
 
 .enemy {
-	margin-top: 10px;
-	background-color: lightgreen;
-	border-style: solid;
-	border-width: 3px;
-	padding-left: 14px;
-	padding-right: 14px;
-	border-color: green;
-	overflow: hidden;
-	border-radius: 8px;
-	padding-bottom: 10px;
+  background-color: #e6f9e8;
+  border-left: 5px solid #45b36b;
+  padding: 1em;
+  border-radius: 10px;
+  margin-top: 1.5em;
 }
 
 #endtext {
-	text-align: center;
+  text-align: center;
+  margin-top: 2em;
 }
 
-.redText
-	{color: red;
+/* Utility */
+.redText {
+  color: red;
 }
 
-img {float:right;
-	margin-top: 15px;
-	margin-left: 25px;
-	margin-bottom: 15px;
-	padding-right: 10px;
-	display: block;
-	padding-left: 6px;
+/* Images */
+img {
+  float: right;
+  margin: 1em 0 1em 2em;
+  max-width: 40%;
+  width: auto;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
 }
 
+/* Responsive */
 @media (max-width: 750px) {
-	h1 {font-size: 25px;}
-	h2 {font-size: 21px;}
-	h3 {font-size: 18px;}
-	img {width: 50%;}
-	.mytable {font-size: 13px;}
+  h1 {
+    font-size: 2em;
+  }
+  h2 {
+    font-size: 1.5em;
+  }
+  img {
+    width: 60%;
+    float: none;
+    display: block;
+    margin: 1em auto;
+  }
+  .mytable {
+    font-size: 0.9em;
+  }
+}
+
+@media (max-width: 560px) {
+  nav li {
+    display: block;
+    margin: 0.5em auto;
+    width: fit-content;
+  }
+  nav a {
+    width: 180px;
+    display: block;
+    margin: 0 auto;
+  }
 }
 
 @media (max-width: 520px) {
-	h1 {font-size: 20px;}
-	img {width: 40%;}
-}
-
-@media (max-width: 560px)
-	{
-	nav li {display: block;
-			margin-top: 5px;}
+  h1 {
+    font-size: 1.5em;
+  }
+  img {
+    width: 80%;
+  }
 }
